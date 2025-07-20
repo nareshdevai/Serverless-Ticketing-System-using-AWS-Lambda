@@ -20,5 +20,3 @@ A serverless support ticketing system built with AWS Lambda, API Gateway, and Dy
 - Ticket data stored in DynamoDB with TTL
 - Email alert sent on ticket creation using SNS
 - Logs and metrics captured in CloudWatch
-
-## 📁 Folder Structure
